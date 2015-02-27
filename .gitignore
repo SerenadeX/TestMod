@@ -1,0 +1,13 @@
+!.gitignore
+build
+.gradle
+gradle
+eclipse
+build.gradle
+CREDITS-fml.txt
+README.txt
+forge-1.7.10-*
+gradlew
+gradlew.bat
+LICENSE-fml.txt
+MinecraftForge-*.txt
