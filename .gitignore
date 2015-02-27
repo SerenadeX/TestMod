@@ -11,3 +11,10 @@ gradlew
 gradlew.bat
 LICENSE-fml.txt
 MinecraftForge-*.txt
+/bin/
+.classpath
+.idea/
+.metadata/
+.project
+.settings/
+forge-1.iml
